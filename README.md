@@ -28,7 +28,6 @@ Prepare Images: Place your content and style images in the images/ directory.
 
 Run Style Transfer: Execute the following command to start the style transfer process:
 
-bash
 
 python style_transfer.py --content_image path/to/content.jpg --style_image path/to/style.jpg --output_image path/to/output.jpg
 Adjust Parameters: Modify parameters in style_transfer.py for custom results, such as:
